@@ -25,7 +25,7 @@ My (kick) boxing school in the North of Amsterdam, named Boogieland, took it to 
 ## Locations
 
 <!-- Start with a description about why these locations are chosen and why they are important for this topic. -->
-Amsterdam is the main capital of The Netherlands. It's known to be a city of liberal people from diverse backgrounds. Where lots of people might think of Amsterdam as the place to smoke weed and misbehave, others will know that it's also the place for endless strolling alongside the beautiful canals (on the UNESCO list of world heritage), visiting a wide variety of museums and exhibitions and enjoying its versatile and booming clubbing scene. During the pandemic the inhabitants of Amsterdam also struggled, just like everybody. But the beautiful thing is that also so many hearth-warming innovative initiatives popped up. 
+Amsterdam is the main capital of The Netherlands. It's known to be a city of liberal people from diverse backgrounds. Where lots of people might think of Amsterdam as the place to smoke weed and misbehave, others will know that it's also the place for endless strolling alongside the beautiful canals (on the UNESCO list of world heritage), visiting a wide variety of museums and exhibitions and enjoying its versatile and booming clubbing scene. During the pandemic the inhabitants of Amsterdam also struggled, just like everybody. But the beautiful thing is that also so many hearth-warming innovative initiatives popped up as a result of the lockdown. Hopefully some of these initiatives will last, even after this pandemic is over.
 
 <!-- This section also includes a mandatory table, this table lists each location and links to their Wikidata items: -->
 | Locations                                        |
