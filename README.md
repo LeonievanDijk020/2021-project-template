@@ -2,7 +2,7 @@
 # Pandemic Sporting in Public Space
 
 <!-- It's always a good idea to start with an image. For example, you could take a screenshot of your work and place it in the images directory of this repository: -->
-![A picture of myself](Boxingbag.jpeg)
+![A picture of the project](team/Boxingbag.jpeg)
 [Replace the above picture with a picture of your group's project]
 
 ## Topic
