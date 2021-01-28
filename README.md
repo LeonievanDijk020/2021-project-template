@@ -3,12 +3,12 @@
 
 <!-- It's always a good idea to start with an image. For example, you could take a screenshot of your work and place it in the images directory of this repository: -->
 ![A picture of the project](team/Boxingbag.jpeg)
-[Replace the above picture with a picture of your group's project]
 
 ## Topic
 <!-- In this section, you can describe the topic you and your group have worked on. You can include images, links and everything else supported by the Markdown syntax. Try to make this section not much longer than three or four paragraphs. -->
-Data on box ball project: how can we measure which ones are the most used? By weariness?
-The Boogieland initiative already have pictures on their map but the Amsterdam outdoor facilities has not (oppurtunity?) Go by all tennistop tables in Amsterdam, on a busy time: 11:00 - 16:00 sunday, make picture: which ones are in use, what’s the score?
+During the pandemic, when we were all of a sudden in a lockdown, the gyms closed their doors as well. Of course this was necessary and also, we didn't know much about the virus when it all hit us. For most people, as for myself, it was hard to all of a sudden quit all physical excercise. Gyms needed to be extra creative, and after weeks of online lessons via Zoom and people installing their very own home gyms, a little more was possible and some gyms could host their lessons again in small groups in the parks and on squares of Amsterdam. 
+My (kick) boxing school in the North of Amsterdam, named Boogieland, took it to another level. They started the 'Boogieland Foundation', to make (kick)boxing available for everybody in the city. They raised money to buy boxing bags and installed them all throughout the city. On Soundcloud they made their trainers record workouts with boxing combinations (for free obviously), so that everybody who wanted could have a proper (kick)boxing workout. Even in the second lockdown, people could still have their workout and stay healthy.
+
 
 ## Group
 
@@ -25,7 +25,7 @@ The Boogieland initiative already have pictures on their map but the Amsterdam o
 ## Locations
 
 <!-- Start with a description about why these locations are chosen and why they are important for this topic. -->
-Amsterdam is the main capital of The Netherlands. It's known to be a city of liberal people.
+Amsterdam is the main capital of The Netherlands. It's known to be a city of liberal people from diverse backgrounds. 
 
 <!-- This section also includes a mandatory table, this table lists each location and links to their Wikidata items: -->
 | Locations                                        |
