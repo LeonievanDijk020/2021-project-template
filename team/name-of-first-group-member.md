@@ -1,17 +1,17 @@
-# [Name]
+# Leonie
 <!-- Fill in information between these brackets[]. You can delete the brackets and this comments when you are done. We'll use this information for the project website. You can update this info whenever you like :) -->
 
-[Short description of yourself]
+I'm Leonie, I live in the north of Amsterdam and I work for the University of Applied Sciences. 
 
-[Picture of yourself or something else you use to identify yourself like a drawing or an avatar.](images/yourpicture.jpg)
+![A picture of myself](images/Leonie.jpg)
 
 ## About me
 - What is your field of study?
-[field of study]
+Communication and multimedia design
 - Where do you live
-[name of location](wikidata link to location)
+Amsterdam(https://www.wikidata.org/wiki/Q727)
 - What made you choose this project?
-[Short text]
+Passionate about data
 - What was your role in your group?
 [Short text]
 - What is something you learned during this project about working with data?
