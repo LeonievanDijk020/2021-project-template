@@ -3,7 +3,7 @@
 
 I'm Leonie, I live in the north of Amsterdam and I work for the University of Applied Sciences. 
 
-![A picture of myself](images/Leonie.jpg)
+![A picture of myself](Leonie.jpg)
 
 ## About me
 - What is your field of study?
