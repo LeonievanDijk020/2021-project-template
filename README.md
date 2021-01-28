@@ -18,9 +18,9 @@ The Boogieland initiative already have pictures on their map but the Amsterdam o
 <!-- This section includes a mandatory table that lists the names of all group members and links to their profile pages:  -->
 | Group                                                             |
 |:-----------------------------------------------------------------|
-| [Leonie van Dijk](group/Leonie.md)   |
-| [Frank Kloos](group/Frank.md) |
-| [Maaike van Cruchten](group/Maaike.md) |
+| [Leonie van Dijk](team/Leonie.md)   |
+| [Frank Kloos](team/Frank.md) |
+| [Maaike van Cruchten](team/Maaike.md) |
 
 ## Locations
 
